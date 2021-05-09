@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137310909912",
+    "project_id": "digital-eyes-f6c1e",
+    "storage_bucket": "digital-eyes-f6c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137310909912:android:06ac433bbe859bff52eead",
+        "android_client_info": {
+          "package_name": "com.adityanaitan.digital_eyes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137310909912-bg2ur405vkinru76d76ihpl847j54dlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adityanaitan.digital_eyes",
+            "certificate_hash": "cfc19e424c409322f7feb3bfb157983a2511365b"
+          }
+        },
+        {
+          "client_id": "137310909912-uoq4qaajciu4dkpr5u6migke931l8lvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlE7h41hGNj4fbyGchdgFULiZRtfS9tRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137310909912-uoq4qaajciu4dkpr5u6migke931l8lvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
